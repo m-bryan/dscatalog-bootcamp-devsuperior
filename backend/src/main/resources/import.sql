@@ -54,3 +54,14 @@ INSERT INTO tb_product_category (product_id, category_id) VALUES (22, 3);
 INSERT INTO tb_product_category (product_id, category_id) VALUES (23, 3);
 INSERT INTO tb_product_category (product_id, category_id) VALUES (24, 3);
 INSERT INTO tb_product_category (product_id, category_id) VALUES (25, 3);
+
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Michael Bryan', '62525485025', 8000.0, {ts '2012-09-17 18:47:52.69'}, 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Joao Mario', '12345678910', 2500.0, {ts '1990-07-01 18:47:52.69'}, 4);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Ana Cristina', '12345678911', 4000.0, {ts '1991-08-01 18:47:52.69'}, 1);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Bruno Silva', '12345678912', 4000.0, {ts '1980-01-01 18:47:52.69'}, 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Daniel Silva', '02345678913', 1250.0, {ts '1970-02-27 18:47:52.69'}, 3);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('David Neres', '02345678910', 10000.0, {ts '1995-05-27 18:47:52.69'}, 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Neymar Jr', '02345678911', 10000.0, {ts '1995-05-05 18:47:52.69'}, 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Zion', '22345678910', 15000.0, {ts '2000-01-05 18:47:52.69'}, 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Rodrigo Caio', '22345678911', 2500.0, {ts '1998-02-05 18:47:52.69'}, 0);
+INSERT INTO tb_client(name, cpf, income, birth_date, children) VALUES ('Gabriel Batista', '22345678912', 6800.0, {ts '1998-11-26 18:47:52.69'}, 0);
